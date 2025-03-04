@@ -1,0 +1,106 @@
+@font-face {
+    font-family: "Courgette-Regular";
+    src: url(../font/Courgette-Regular.ttf);
+}
+@font-face {
+    font-family: "SourceSans3-VariableFont_wght";
+    src: url(../font/SourceSans3-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: "SourceSans3-VariableFont_wght";
+    max-width: 980px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+h1 {
+    font-family: "Courgette-Regular";
+    font-size: 2.22em;
+    color:#003884 ;
+    text-align: center;
+}
+
+.title {
+    font-family: "Courgette-Regular";
+    font-size: 1.11em;
+    color:#003884 ;
+}
+
+blockquote {
+    font-family: "Courgette-Regular";
+    font-size: 1.39em;
+    color:#003884 ;
+    text-align: center;
+    background-color: #d7e1ef;
+}
+
+.auteur {
+    font-size: 18px;
+}
+
+h2 {
+    color: #4f89b9;
+    font-family: "Courgette-Regular";
+    text-align: center;
+    font-size: 1.95em;
+}
+
+h3 {
+    text-align: center;
+    color:#003884 ;
+    font-size: 1.39em;
+    font-family: "Courgette-Regular";
+}
+
+p {
+    font-family: "SourceSans3-VariableFont_wght"; 
+}
+
+.drapeau {
+    margin-top: 0;
+}
+
+p.statue {
+    margin-top: 0;
+    margin-right: 15px;
+    margin-bottom: 0;
+}
+
+p.pont {
+    margin-top: 0;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+span {
+    color: #4f89b9;
+    font-style: italic;
+}
+main {
+    border-bottom: 3px solid #003884;
+}
+
+.fa-brands {
+    font-size: 30px;
+    color:#003884 ;
+}
+
+.icons {
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 0.78em;
+}
