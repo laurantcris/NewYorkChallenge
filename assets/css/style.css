@@ -21,10 +21,11 @@ h1 {
     text-align: center;
 }
 
-.title {
+.title a {
     font-family: "Courgette-Regular";
     font-size: 1.11em;
     color:#003884 ;
+    text-decoration: none;
 }
 
 blockquote {
